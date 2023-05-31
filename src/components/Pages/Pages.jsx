@@ -2,6 +2,7 @@ import React from 'react'
 import Portfolio from '../Portfolio'
 import Services from '../Services'
 import AboutUs from '../../AboutUs'
+import LandscapArch from '../LandscapArch'
 
 function Pages() {
   return (
@@ -9,6 +10,7 @@ function Pages() {
    <Portfolio/>
    <Services/>
    <AboutUs/>
+ 
  </>
    
   )

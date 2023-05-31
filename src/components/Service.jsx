@@ -6,6 +6,7 @@ import image4 from '../Images/image5.jpg'
 import image5 from '../Images/image4.jpeg'
 import image6 from '../Images/image6.jpg'
 
+
 function Service() {
   return (
     <>
@@ -23,7 +24,7 @@ function Service() {
                   <div class="images">
                     <div class="image1">
                       <img src={image1} alt="" width="90%" />
-                      <a href="./landscape architecture.html" target="_blank
+                      <a href=""target="_blank
                           "> landscape Architecture </a><br />
                     </div>
                   </div>
@@ -33,7 +34,7 @@ function Service() {
                   <div class="images">
                     <div class="image2">
                       <img src={image2} alt="" width="90%" />
-                      <a href="./Landscape Construction.html" target="_blank">Landscape Construction </a><br />
+                      <a href="" target="_blank">Landscape Construction </a><br />
                     </div>
                   </div>
                 </div>
@@ -42,7 +43,7 @@ function Service() {
                   <div class="images">
                     <div class="image3">
                       <img src={image3} alt="" width="90%" />
-                      <a href="./Pool construction.html" target="_blank ">Pool construction</a><br />
+                      <a href="" target="_blank ">Pool construction</a><br />
                     </div>
                   </div>
                 </div>
@@ -66,7 +67,7 @@ function Service() {
                   <div class="images">
                     <div class="image4">
                       <img src={image4} alt="" width="90%" />
-                      <a href="./Gardens & Surround.html" target="_blank ">Gardens and Surrounds</a>
+                      <a href="" target="_blank ">Gardens and Surrounds</a>
                       <br />
                     </div>
                   </div>
@@ -76,7 +77,7 @@ function Service() {
                   <div class="images">
                     <div class="image5">
                       <img src={image5} alt="" width="90%" />
-                      <a href="./Orange Regional Museum.html" target="_blank ">Orange Regional Museum</a>
+                      <a href="" target="_blank ">Orange Regional Museum</a>
                       <br />
                     </div>
                   </div>
@@ -86,7 +87,7 @@ function Service() {
                   <div class="images">
                     <div class="image6">
                       <img src={image6} alt="" width="90%" />
-                      <a href="./Entertainment Area.html" target="_blank ">Entertainment Area</a>
+                      <a href="" target="_blank ">Entertainment Area</a>
                       <br />
                     </div>
                   </div>

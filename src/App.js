@@ -6,6 +6,7 @@ import Portfolio from './components/Portfolio';
 import Home from './components/Pages/Home';
 import Services from './components/Services';
 import AboutUs from './AboutUs';
+import CheckOut from './components/CheckOut';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
           <Route path='/Portfolio' element={<Portfolio />} />
           <Route path='/Services' element={<Services />} />
           <Route path='/AboutUs' element={<AboutUs />} />
+          <Route path='/CheckOut' element={<CheckOut/>}/>
         </Routes>
         <About />
         <Contect />
